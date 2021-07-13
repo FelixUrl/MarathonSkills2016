@@ -1,0 +1,74 @@
+﻿<Page x:Class="MarathonSkills.AdminController.AdmissionInventory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MarathonSkills.AdminController"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdmissionInventory">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="23"/>
+            <RowDefinition Height="22"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="47"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="17*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="59"/>
+            <ColumnDefinition Width="61"/>
+            <ColumnDefinition Width="58"/>
+            <ColumnDefinition Width="25"/>
+            <ColumnDefinition Width="37"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="100.333"/>
+            <ColumnDefinition Width="40.667"/>
+            <ColumnDefinition Width="43.173"/>
+            <ColumnDefinition Width="141.712"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="4" Grid.Column="6" Grid.Row="1" Text="Поступление инвентаря" Margin="0,0,6,0"/>
+        <Button x:Name="btnSave" Content="Сохранить" Margin="6,16,3,5" Background="#FFF2F2F2" FontFamily="Arial" FontSize="16" Foreground="Black"  Grid.Row="10" Grid.Column="3" Click="btnSave_Click" Grid.ColumnSpan="2" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBox Grid.Column="2" IsReadOnly="True" HorizontalAlignment="Left" Grid.Row="3" TextWrapping="Wrap" Text="Наименование" Width="120" Background="#FFA5A5A5" Foreground="#FF656565" FontWeight="Bold" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="4" IsReadOnly="True"  Grid.Row="3" TextWrapping="Wrap" Text="Поступление" Background="#FFA5A5A5" Foreground="#FF656565" FontWeight="Bold" Grid.ColumnSpan="3" CaretBrush="#FF949494" BorderBrush="Black"/>
+        <TextBox Grid.Column="2" IsReadOnly="True"  HorizontalAlignment="Left" Grid.Row="4" TextWrapping="Wrap" Text="Номер бегуна" Width="120" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" IsReadOnly="True" Grid.Row="5" TextWrapping="Wrap" Text="RFID браслет" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" IsReadOnly="True" Grid.Row="6" TextWrapping="Wrap" Text="Бейсболка" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" IsReadOnly="True" Grid.Row="7" TextWrapping="Wrap" Text="Бутылка воды" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" IsReadOnly="True" Grid.Row="8" TextWrapping="Wrap" Text="Футболка" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="2" IsReadOnly="True" Grid.Row="9" TextWrapping="Wrap" Text="Сувенирный буклет" Background="#FFE1E1E1" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="2"/>
+
+        <TextBox Name="txbRFID" Grid.Column="4" Grid.Row="5" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbRFID_TextChanged"/>
+        <TextBox Name="txbNumber" Grid.Column="4" Grid.Row="4" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbNumber_TextChanged"/>
+        <TextBox Name="txbBase" Grid.Column="4" Grid.Row="6" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbBase_TextChanged"/>
+        <TextBox Name="txbBottle" Grid.Column="4" Grid.Row="7" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbBottle_TextChanged"/>
+        <TextBox Name="txbPolo" Grid.Column="4" Grid.Row="8" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbPolo_TextChanged"/>
+        <TextBox Name="txbSuvenir" Grid.Column="4" Grid.Row="9" TextWrapping="Wrap"  Background="White" Foreground="#FF656565" BorderBrush="Black" Grid.ColumnSpan="3" TextChanged="txbSuvenir_TextChanged"/>
+
+
+
+
+
+    </Grid>
+</Page>

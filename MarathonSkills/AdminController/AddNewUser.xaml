@@ -1,0 +1,93 @@
+﻿<Page x:Class="MarathonSkills.AdminController.AddNewUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MarathonSkills.AdminController"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddNewUser">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="68"/>
+            <ColumnDefinition Width="57"/>
+            <ColumnDefinition Width="113.667"/>
+            <ColumnDefinition Width="117.333"/>
+            <ColumnDefinition Width="137"/>
+            <ColumnDefinition Width="47.5"/>
+            <ColumnDefinition Width="74"/>
+            <ColumnDefinition Width="23"/>
+            <ColumnDefinition Width="96"/>
+            <ColumnDefinition Width="37*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="74"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="37"/>
+            <RowDefinition Height="34.5"/>
+            <RowDefinition Height="20.5"/>
+            <RowDefinition Height="96.667"/>
+            <RowDefinition Height="35.333"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="3" TextWrapping="Wrap" Text="Email:" Margin="0,2,0,0" Grid.Column="2" FontFamily="Open Sans Light" FontSize="18" TextAlignment="Right"/>
+        <TextBlock Margin="5,2,95.5,0" Grid.Row="3" TextWrapping="Wrap" Text="Новый пароль" Grid.Column="6" FontFamily="Open Sans Light" FontSize="18" RenderTransformOrigin="6.928,3.368" Grid.ColumnSpan="4"/>
+        <TextBlock Margin="14,18,4.5,0" Grid.Row="5" TextWrapping="Wrap" FontFamily="Open Sans Light" FontSize="18" Grid.Column="5" Grid.ColumnSpan="2" TextAlignment="Right"><Run Text="Повторите пароль"/><Run Text=":"/></TextBlock>
+        <TextBlock Margin="14,11,0,6" Grid.Row="4" TextWrapping="Wrap" Grid.Column="2" FontFamily="Open Sans Light" FontSize="18" TextAlignment="Right"><Run Text="Имя"/><Run Text=":"/></TextBlock>
+        <TextBlock Margin="40,11,0,7" Grid.Row="5" TextWrapping="Wrap" Grid.Column="1" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="2" TextAlignment="Right"><Run Text="Фамилия"/><Run Text=":"/></TextBlock>
+        <TextBlock Margin="0,10,5,0" Grid.Row="6" TextWrapping="Wrap" Grid.Column="2" FontFamily="Open Sans Light" FontSize="18" Text="Роль:" TextAlignment="Right"/>
+        <TextBox Name="txb_email" Grid.Column="3" Grid.Row="3" TextWrapping="Wrap" GotFocus="txb_email_GotFocus" Text="Email" Margin="5,0,0,0" Foreground="#FF999999" FontStyle="Italic" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="2"/>
+        <TextBox Name="txb_pass" Grid.Column="7" Grid.Row="4" TextWrapping="Wrap" GotFocus="txb_pass_GotFocus" Text="Password" Margin="0.5,10,0.5,0" Foreground="#FF999999" FontStyle="Italic" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="3" RenderTransformOrigin="0.893,0.341"/>
+        <TextBox Name="txb_repeatpass" Grid.Column="7" Grid.Row="5" TextWrapping="Wrap" GotFocus="txb_repeatpass_GotFocus" Text="Re-enter password" Margin="0.5,11,0.5,0" Foreground="#FF999999" FontStyle="Italic" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="3"/>
+        <TextBox Name="txb_name" Grid.Column="3" Height="25" Grid.Row="4" TextWrapping="Wrap" GotFocus="txb_name_GotFocus" Text="Имя" VerticalAlignment="Top" Margin="5,10,35,0" Foreground="#FF999999" FontStyle="Italic" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="2"/>
+        <TextBox Name="txb_surname" Grid.Column="3" Grid.Row="5" TextWrapping="Wrap" GotFocus="txb_surname_GotFocus" Text="Фамилия" Margin="5,11,35,0" Foreground="#FF999999" FontStyle="Italic" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="2"/>
+        <ComboBox Name="cmbRole" Grid.Column="3" Margin="5,10,70,2" Text="" Grid.Row="6" FontFamily="Open Sans Light" FontSize="14" Grid.ColumnSpan="2" />
+        <Grid Grid.Column="5" Margin="6,0,1.5,4" Grid.Row="6" Grid.ColumnSpan="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="115"/>
+                <ColumnDefinition Width="197"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid Grid.Column="5" Margin="6,25,1.5,0" Grid.Row="6" Grid.ColumnSpan="5" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="75"/>
+                <ColumnDefinition Width="197"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid Grid.Column="2" HorizontalAlignment="Left" Height="65" Margin="16,3,0,0" Grid.Row="2" VerticalAlignment="Top" Width="591" Grid.ColumnSpan="8">
+            <TextBlock HorizontalAlignment="Left" Margin="126,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" Width="364" RenderTransformOrigin="0.5,0.5">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.205"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0.581"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform><Run Text="Добавление нового по"/><Run Text="льзователя"/></TextBlock>
+        </Grid>
+        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="9" Margin="21,1,0,10" Click="btn_Reg_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="9" Margin="6,1,35,10" Click="btn_cancel_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBlock Margin="14,16,4.5,0" Grid.Row="4" TextWrapping="Wrap" FontFamily="Open Sans Light" FontSize="18" Grid.Column="5" Grid.ColumnSpan="2" TextAlignment="Right" Text="Пароль:"/>
+
+    </Grid>
+</Page>

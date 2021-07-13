@@ -1,0 +1,716 @@
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+C:\Users\Felix\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddEditCharity.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddEditCharity.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\backup\ms runner\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddEditCharity.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddEditCharity.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+D:\programming\14.06\part 1\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\Inventory.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\ВСЯадминкаКромеИнвенторя\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csprojAssemblyReference.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLong.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\AboutMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\Checkpoint.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\finalka\all\fel\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe.config
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\EntityFramework.SqlServer.xml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\App.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_Content.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills_MarkupCompile.lref
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AddNewUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\AdmissionInventory.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\EditCharity.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\AdminController\ImportVolunteers.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminEditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\AdminMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\ManageCharities.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\UserManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Admin\VolunteerManagement.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\ChoicePage.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\BMIcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\BMRcalculator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\InfoMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\InteractiveMap.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Info\ListFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MainWindow.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\AuthRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\ContactCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\EditProfile.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\MyResults.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\MySponsor.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\PerviousResult.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegConfirm.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RegRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Runner\RunnerMenu.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\Pay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\Sponsor\ThanksPay.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.g.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.Properties.Resources.resources
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.GenerateResource.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CoreCompileInputs.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.CopyComplete
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.exe
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.pdb
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\MarathonSkills.csproj.AssemblyReference.cache
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.g.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Admin\InventoryMarathon.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\EditUser.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ManagRunner.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\MenuCoordinator.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Coordinator\ShowFund.baml
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-krotovda\Desktop\MarathonSkills\MarathonSkills\obj\Debug\Info\HowLongs.baml

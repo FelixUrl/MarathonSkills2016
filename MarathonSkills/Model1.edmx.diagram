@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="116514a8736f4d3bbb82c027685ebc16" Name="Diagram1">
+        <EntityTypeShape EntityType="MarathonSkillsModel.Card" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Fund" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.HowLong" Width="1.5" PointX="7.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Inventory" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Marathon" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.MarathonMap" Width="1.5" PointX="7.5" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.SponsorRunner" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.StatisticsMarathon" Width="1.5" PointX="7.5" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.sysdiagrams" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.User" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Volunteer" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_Card_Sponsor" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_Fund_Sponsor" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_User_Fund" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_User_Inventory" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_MarathonMap_Marathon" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_StatisticsMarathon_Marathon" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK_StatisticsMarathon_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

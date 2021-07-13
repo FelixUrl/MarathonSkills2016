@@ -1,0 +1,66 @@
+﻿<Page x:Class="MarathonSkills.Admin.InventoryMarathon"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MarathonSkills.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InventoryMarathon">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition/>
+            <RowDefinition Height="34"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="203"/>
+            <ColumnDefinition Width="117"/>
+            <ColumnDefinition Width="100.333"/>
+            <ColumnDefinition Width="40.667"/>
+            <ColumnDefinition Width="43.173"/>
+            <ColumnDefinition Width="141.712"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="3" Grid.Row="1" Text="Инвентарь" Margin="0,0,6,0"/>
+
+        <DataGrid x:Name="gridInventory" Grid.ColumnSpan="8" AutoGenerateColumns="False" SelectionMode="Single" Margin="47,10,45,3" Grid.Row="3" Grid.Column="1" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Комплект" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Тип А" Binding="{Binding TypeA}" Width="*"/>
+                <DataGridTextColumn Header="Тип B" Binding="{Binding TypeB}" Width="*"/>
+                <DataGridTextColumn Header="Тип C" Binding="{Binding TypeC}" Width="*"/>
+                <DataGridTextColumn Header="Необходимо" Binding="{Binding Need}" Width="*"/>
+                <DataGridTextColumn Header="Остаток" Binding="{Binding ostatok}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock TextWrapping="Wrap" FontSize="18" Foreground="Black" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="2" Text="Всего зарегистрировано бегунов на марафон:" Margin="0,11,1,0" FontWeight="Bold"/>
+        <TextBlock Grid.Column="5" Margin="0,17,0,0" Grid.Row="2" TextWrapping="Wrap" Text="TextBlock" Grid.ColumnSpan="2" FontSize="18"/>
+
+        <Button x:Name="btnReport" Content="Отчет" Margin="0,2,74,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="2" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="btnAdmission" Content="Поступление" Margin="13,2,0,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="7" Click="btnAdmission_Click" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+
+
+    </Grid>
+</Page>

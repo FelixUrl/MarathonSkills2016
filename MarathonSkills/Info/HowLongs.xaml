@@ -1,0 +1,73 @@
+﻿<Page x:Class="MarathonSkills.Info.HowLongs"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MarathonSkills.Info"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HowLong">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="66"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="162.034"/>
+            <ColumnDefinition Width="157.966"/>
+            <ColumnDefinition Width="6"/>
+            <ColumnDefinition Width="178.288"/>
+            <ColumnDefinition Width="141.712"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Margin="124,10" TextWrapping="Wrap" FontSize="22" Foreground="Black" TextAlignment="Center" Grid.ColumnSpan="5" Grid.Column="1" Grid.Row="1" Text="Насколько долгий марафон?"/>
+        <TextBlock Name="txtName" Margin="14,10,10,3" TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="2" Text="Имя выбранного пункта"/>
+        <TabControl Grid.ColumnSpan="2" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="6" Width="263" Margin="57,61,0,10">
+            <TabItem Header="Скорость">
+                <Grid  Background="#FFE5E5E5">
+                    <DataGrid x:Name="gridSpeed" HorizontalAlignment="Left" Width="257" HeadersVisibility="None" AutoGenerateColumns="False" SelectionChanged="gridSpeed_SelectionChanged" SelectionMode="Single" Margin="0,0,0,-2">
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn Header="Logo" Width="1*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Height="100" Source="{Binding Image}" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Binding="{Binding Name}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Длина">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid Name="gridDistance" HorizontalAlignment="Left" Height="276" VerticalAlignment="Top" Width="257" HeadersVisibility="None" AutoGenerateColumns="False" SelectionChanged="gridDistance_SelectionChanged" SelectionMode="Single">
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn Header="Logo" Width="1*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Height="100" Source="{Binding Image}" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Binding="{Binding Name}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TextBlock Name="txtInfo" Grid.Column="1" Margin="65,39,65,10" Grid.Row="6" TextWrapping="Wrap" Text="" Grid.ColumnSpan="2" FontSize="16" TextAlignment="Center"/>
+        <Image Name="imgInfo" Grid.Column="1" Height="169" Margin="10,10,10,0" Grid.Row="3" Grid.RowSpan="3" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+    </Grid>
+</Page>

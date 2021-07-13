@@ -1,0 +1,20 @@
+﻿MarathonSkills
+
+
+winexe
+C#
+.cs
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\obj\Debug\
+MarathonSkills
+none
+false
+DEBUG;TRACE
+\\srv-fs01.chrt.radiotech.su\students_profiles\is34-sharifullinrr\Desktop\Новая папка\MarathonSkills\MarathonSkills\App.xaml
+361377769431
+21750853300
+59441017228
+19-837337419
+AdminController\AddCharity.xaml;AdminController\AddNewUser.xaml;AdminController\AdmissionInventory.xaml;AdminController\EditCharity.xaml;AdminController\ImportVolunteers.xaml;Admin\AdminEditUser.xaml;Admin\AdminMenu.xaml;Admin\InventoryMarathon.xaml;Admin\ManageCharities.xaml;Admin\UserManagement.xaml;Admin\VolunteerManagement.xaml;ChoicePage.xaml;Coordinator\EditUser.xaml;Coordinator\ManagRunner.xaml;Coordinator\MenuCoordinator.xaml;Coordinator\ShowFund.xaml;Info\BMIcalculator.xaml;Info\BMRcalculator.xaml;Info\HowLongs.xaml;Info\InfoMenu.xaml;Info\InteractiveMap.xaml;Info\ListFund.xaml;MainWindow.xaml;Runner\AuthRegRunner.xaml;Runner\AuthRunner.xaml;Runner\ContactCoordinator.xaml;Runner\EditProfile.xaml;Runner\MyResults.xaml;Runner\MySponsor.xaml;Runner\PerviousResult.xaml;Runner\RegConfirm.xaml;Runner\RegMarathon.xaml;Runner\RegRunner.xaml;Runner\RunnerMenu.xaml;Sponsor\Pay.xaml;Sponsor\ThanksPay.xaml;
+
+True
+

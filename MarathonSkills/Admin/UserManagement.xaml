@@ -1,0 +1,97 @@
+﻿<Page x:Class="MarathonSkills.Admin.UserManagement"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MarathonSkills.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UserManagement">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="26"/>
+            <RowDefinition/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="203"/>
+            <ColumnDefinition Width="117"/>
+            <ColumnDefinition Width="184"/>
+            <ColumnDefinition Width="110.333"/>
+            <ColumnDefinition Width="31.667"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Margin="168,0,10,0" TextWrapping="Wrap" Text="Управление пользователями" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="1"/>
+        <Button Name="btnAddUser" Content="+ Добавление&#xD;&#xA;нового" Margin="0,5,26,4" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="2" Grid.Column="2" Grid.RowSpan="2" Click="btnAddUser_Click" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <ComboBox Name="cmbRole" Grid.Column="5" Margin="0,2" Grid.Row="2" FontSize="16" Text="Все роли" Grid.ColumnSpan="2"  />
+        <TextBlock Grid.Column="4" Margin="10,0" Grid.Row="2" TextWrapping="Wrap" Text="Фильтр по ролям:" FontSize="18" TextAlignment="Right"/>
+
+        <ComboBox Name="cmbSortBy" Grid.Column="5" Margin="0,2" Grid.Row="3" FontSize="16" Text="Имени" Grid.ColumnSpan="2"/>
+        <TextBlock Grid.Column="4" Margin="10,0" Grid.Row="3" TextWrapping="Wrap" Text="Сортировать по:" FontSize="18" TextAlignment="Right"/>
+        <TextBlock Grid.Column="4" Margin="10,0" Grid.Row="4" TextWrapping="Wrap" Text="Поиск:" FontSize="18" TextAlignment="Right"/>
+        <Button x:Name="btnUser_Copy" Content="Обновить" Margin="0,3,0.333,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="5" Click="btnUser_Copy_Click" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBlock Grid.Column="2" Margin="0,0,4,0" Grid.Row="6" TextWrapping="Wrap" Text="Всего пользователей:" FontSize="18" FontWeight="Bold"/>
+        <TextBlock x:Name="txbCountUser" Grid.Column="3" Margin="1,2,31,0" Grid.Row="6" TextWrapping="Wrap" FontSize="18"/>
+
+        <DataGrid x:Name="UserInAdmin" Grid.ColumnSpan="7" Margin="47,10,45,0" Grid.Row="7" Grid.Column="1" AutoGenerateColumns="False" SelectionMode="Single" SelectionUnit="FullRow" IsReadOnly="True">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}" Width="1*" />
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding Surname}" Width="1*"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="2*"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding Role}"/>
+
+                <DataGridTemplateColumn >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Button_Click">
+                                <Button.Template>
+                                    <ControlTemplate>
+                                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black">Edit</TextBlock>
+                                    </ControlTemplate>
+                                </Button.Template>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="txbFind" Grid.Column="5" Grid.Row="4" TextWrapping="Wrap" Text="" Margin="0,2" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnClear" Content="X" Margin="0,3,0,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="6" Click="btnClear_Click" >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+
+
+
+
+    </Grid>
+</Page>

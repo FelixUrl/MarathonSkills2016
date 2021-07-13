@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MarathonSkillsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Card">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Sponsor" Type="Int32" />
+    <Property Name="NameCard" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="NumCard" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+    <Property Name="TimeEnd" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="CVC" Type="String" MaxLength="3" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SponsorRunner" Relationship="Self.FK_Card_Sponsor" FromRole="Card" ToRole="SponsorRunner" />
+  </EntityType>
+  <EntityType Name="Fund">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Money" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Logo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ID_Sponsor" Type="Int32" />
+    <NavigationProperty Name="SponsorRunner" Relationship="Self.FK_Fund_Sponsor" FromRole="Fund" ToRole="SponsorRunner" />
+    <NavigationProperty Name="User" Relationship="Self.FK_User_Fund" FromRole="Fund" ToRole="User" />
+  </EntityType>
+  <EntityType Name="HowLong">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Speed" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Length" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Count" Type="Int32" />
+    <NavigationProperty Name="User" Relationship="Self.FK_User_Inventory" FromRole="Inventory" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Marathon">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Distance" Type="Double" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="MarathonMap" Relationship="Self.FK_MarathonMap_Marathon" FromRole="Marathon" ToRole="MarathonMap" />
+    <NavigationProperty Name="StatisticsMarathon" Relationship="Self.FK_StatisticsMarathon_Marathon" FromRole="Marathon" ToRole="StatisticsMarathon" />
+  </EntityType>
+  <EntityType Name="MarathonMap">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Marathon" Type="Int32" />
+    <Property Name="CheckP" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Marathon" Relationship="Self.FK_MarathonMap_Marathon" FromRole="MarathonMap" ToRole="Marathon" />
+  </EntityType>
+  <EntityType Name="SponsorRunner">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Card" Relationship="Self.FK_Card_Sponsor" FromRole="SponsorRunner" ToRole="Card" />
+    <NavigationProperty Name="Fund" Relationship="Self.FK_Fund_Sponsor" FromRole="SponsorRunner" ToRole="Fund" />
+  </EntityType>
+  <EntityType Name="StatisticsMarathon">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Marathon" Type="Int32" />
+    <Property Name="ID_User" Type="Int32" />
+    <Property Name="Time" Type="DateTime" Precision="3" />
+    <Property Name="GeneralTime" Type="DateTime" Precision="3" />
+    <Property Name="MyPlace" Type="Int32" />
+    <NavigationProperty Name="Marathon" Relationship="Self.FK_StatisticsMarathon_Marathon" FromRole="StatisticsMarathon" ToRole="Marathon" />
+    <NavigationProperty Name="User" Relationship="Self.FK_StatisticsMarathon_User" FromRole="StatisticsMarathon" ToRole="User" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Surname" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="0" />
+    <Property Name="ID_Marathon" Type="Int32" />
+    <Property Name="ID_Inventory" Type="Int32" />
+    <Property Name="ID_Fund" Type="Int32" />
+    <Property Name="Country" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Payment" Type="Int32" />
+    <NavigationProperty Name="Fund" Relationship="Self.FK_User_Fund" FromRole="User" ToRole="Fund" />
+    <NavigationProperty Name="Inventory" Relationship="Self.FK_User_Inventory" FromRole="User" ToRole="Inventory" />
+    <NavigationProperty Name="StatisticsMarathon" Relationship="Self.FK_StatisticsMarathon_User" FromRole="User" ToRole="StatisticsMarathon" />
+  </EntityType>
+  <EntityType Name="Volunteer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gender" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="Surname" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Card_Sponsor">
+    <End Role="SponsorRunner" Type="Self.SponsorRunner" Multiplicity="0..1" />
+    <End Role="Card" Type="Self.Card" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SponsorRunner">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Card">
+        <PropertyRef Name="ID_Sponsor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Fund_Sponsor">
+    <End Role="SponsorRunner" Type="Self.SponsorRunner" Multiplicity="0..1" />
+    <End Role="Fund" Type="Self.Fund" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SponsorRunner">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Fund">
+        <PropertyRef Name="ID_Sponsor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Fund">
+    <End Role="Fund" Type="Self.Fund" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fund">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="ID_Fund" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Inventory">
+    <End Role="Inventory" Type="Self.Inventory" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Inventory">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="ID_Inventory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MarathonMap_Marathon">
+    <End Role="Marathon" Type="Self.Marathon" Multiplicity="0..1" />
+    <End Role="MarathonMap" Type="Self.MarathonMap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marathon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="MarathonMap">
+        <PropertyRef Name="ID_Marathon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StatisticsMarathon_Marathon">
+    <End Role="Marathon" Type="Self.Marathon" Multiplicity="0..1" />
+    <End Role="StatisticsMarathon" Type="Self.StatisticsMarathon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marathon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StatisticsMarathon">
+        <PropertyRef Name="ID_Marathon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StatisticsMarathon_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="StatisticsMarathon" Type="Self.StatisticsMarathon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StatisticsMarathon">
+        <PropertyRef Name="ID_User" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MarathonSkillsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Card" EntityType="Self.Card" />
+    <EntitySet Name="Fund" EntityType="Self.Fund" />
+    <EntitySet Name="HowLong" EntityType="Self.HowLong" />
+    <EntitySet Name="Inventory" EntityType="Self.Inventory" />
+    <EntitySet Name="Marathon" EntityType="Self.Marathon" />
+    <EntitySet Name="MarathonMap" EntityType="Self.MarathonMap" />
+    <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" />
+    <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="Volunteer" EntityType="Self.Volunteer" />
+    <AssociationSet Name="FK_Card_Sponsor" Association="Self.FK_Card_Sponsor">
+      <End Role="SponsorRunner" EntitySet="SponsorRunner" />
+      <End Role="Card" EntitySet="Card" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Fund_Sponsor" Association="Self.FK_Fund_Sponsor">
+      <End Role="SponsorRunner" EntitySet="SponsorRunner" />
+      <End Role="Fund" EntitySet="Fund" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Fund" Association="Self.FK_User_Fund">
+      <End Role="Fund" EntitySet="Fund" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Inventory" Association="Self.FK_User_Inventory">
+      <End Role="Inventory" EntitySet="Inventory" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MarathonMap_Marathon" Association="Self.FK_MarathonMap_Marathon">
+      <End Role="Marathon" EntitySet="Marathon" />
+      <End Role="MarathonMap" EntitySet="MarathonMap" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StatisticsMarathon_Marathon" Association="Self.FK_StatisticsMarathon_Marathon">
+      <End Role="Marathon" EntitySet="Marathon" />
+      <End Role="StatisticsMarathon" EntitySet="StatisticsMarathon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StatisticsMarathon_User" Association="Self.FK_StatisticsMarathon_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="StatisticsMarathon" EntitySet="StatisticsMarathon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
